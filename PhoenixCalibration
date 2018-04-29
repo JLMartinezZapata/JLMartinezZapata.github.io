@@ -19,9 +19,6 @@
          h1 {
               color: rgb(224, 107, 11);
             }
-         h2 {
-              color: rgb(224, 11, 75);
-            }
        body {
               background-image: url("PhoenixCalibration.jpg");
               background-repeat: no-repeat;  
@@ -30,10 +27,10 @@
 <body>
 <div class="navigation">
         <div class="navigation_R">
-                <h2 style="text-align:right;">
-                    <h2 href="Home">Home</h2>
-                    <h2 href="Services">Services</h2>
-                    <h2 href="Contact Us">Contact Us</h2>
+                <p style="text-align:right;">
+                    <p href="Home">Home</p>
+                    <p href="Services">Services</p>
+                    <p href="Contact Us">Contact Us</p>
         </style> 
                 </div>
 <br>
