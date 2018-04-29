@@ -19,6 +19,10 @@
   h1 {
 color: rgb(224, 107, 11);
      }
+   body {
+            background-image: url("PhoenixCalibration.jpg");
+            background-repeat: no-repeat;  
+        }
 </style>
 <body>
     <h1 style="text-align:left;">Phoenix Calibration</h1>
