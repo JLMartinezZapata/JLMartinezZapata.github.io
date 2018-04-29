@@ -30,7 +30,7 @@
 <body>
 <div class="navigation">
         <div class="navigation_R">
-                <h2 style="text-align:center;">
+                <h2 style="text-align:right;">
                     <h2 href="Home">Home</h2>
                     <h2 href="Services">Services</h2>
                     <h2 href="Contact Us">Contact Us</h2>
