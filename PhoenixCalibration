@@ -7,22 +7,22 @@
   <title>Phoenix Calibration</title>
 </head>
 <style>
-  body {
-    background-color: mistyrose
-  }
-  body {
-    font-family: Georgia, 'Times New Roman', Times, serif
-  }
-  body {
-    font-size: 4mm
-  }
-  h1 {
-color: rgb(224, 107, 11);
-     }
-   body {
-            background-image: url("PhoenixCalibration.jpg");
-            background-repeat: no-repeat;  
-        }
+       body {
+              background-color: mistyrose
+             }
+       body {
+              font-family: Georgia, 'Times New Roman', Times, serif
+            }
+       body {
+              font-size: 4mm
+            }
+        h1  {
+              color: rgb(224, 107, 11);
+            }
+       body {
+              background-image: url("PhoenixCalibration.jpg");
+              background-repeat: no-repeat;  
+            }
 </style>
 <body>
     <h1 style="text-align:left;">Phoenix Calibration</h1>
