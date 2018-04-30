@@ -24,7 +24,7 @@
               background-repeat: no-repeat;  
             }
         img {
-             float: left;
+             float: none;
             }
 </style>
 <body>
