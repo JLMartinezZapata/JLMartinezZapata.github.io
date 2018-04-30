@@ -23,6 +23,33 @@
               background-image: url("PhoenixCalibration.jpg");
               background-repeat: no-repeat;  
             }
+         ul {
+             list-style-type: none;
+             margin: 0;
+             padding: 0;
+             overflow: hidden;
+             background-color: #333;
+            }
+
+        li {
+            float: left;
+           }
+
+      li a {
+             display: inline-block;
+             color: white;
+             text-align: center;
+             padding: 14px 16px;
+             text-decoration: none;
+            }
+
+ li a:hover {
+              background-color: #111;
+            }
+
+    .active {
+              background-color: red;
+            }
 </style>
 <body>
 <br>
@@ -32,6 +59,7 @@
 <br>
     <h1 style="text-align: left;">Phoenix Calibration</h1>
     <div class="navigation_R">
+      <ul class="navi">
             <a style="text-align: center;">
                     <li>
                         <a href="Home">Home</a>
@@ -42,6 +70,7 @@
                     <li>
                         <a href="Contact Us">Contact Us</a>
                     </li>
+                    </ul>
                 </div>
 </body>
 </html>
