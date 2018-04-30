@@ -23,11 +23,11 @@
               background-image: url("PhoenixCalibration.jpg");
               background-repeat: no-repeat;  
             }
-        img {
-             float: right;
-            }
 </style>
 <body>
+<br>
+<br>
+<br>
     <h1 style="text-align: left;">Phoenix Calibration</h1>
     <div class="navigation_R">
             <a style="text-align: center;">
