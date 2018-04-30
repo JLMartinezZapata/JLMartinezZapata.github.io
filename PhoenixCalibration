@@ -19,10 +19,6 @@
          h1 {
               color: rgb(224, 107, 11);
             }
-       body {
-              background-image: url("PhoenixCalibration.jpg");
-              background-repeat: no-repeat;  
-            }
          ul {
              list-style-type: none;
              margin: 0;
