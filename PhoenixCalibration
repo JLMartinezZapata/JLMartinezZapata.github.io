@@ -47,13 +47,7 @@
               background-color: red;
             }
 </style>
-<body>
-<br>
-<br>
-<br>
-<br>
-<br>
-    <h1 style="text-align: left;">Phoenix Calibration</h1>
+<body>    
     <div class="navigation_R">
       <ul class="navi">
             <a style="text-align: center;">
@@ -68,6 +62,7 @@
                     </li>
                     </ul>
                 </div>
-                <img src="PhoenixCalibration.jpg" alt="PhoenixCalibration"
+                <img src="PhoenixCalibration.jpg" alt="PhoenixCalibration">
+                <h1 style="text-align: left;">Phoenix Calibration</h1>
 </body>
 </html>
