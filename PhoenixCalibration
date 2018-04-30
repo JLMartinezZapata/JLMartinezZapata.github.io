@@ -32,7 +32,7 @@
             }
 
         li {
-            float: right;
+            float: center;
            }
 
       li a {
