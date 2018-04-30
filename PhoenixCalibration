@@ -25,7 +25,13 @@
             }
 </style>
 <body>
-<div class="navigation_R">
+<br>
+<br>
+<br>
+<br>
+<br>
+    <h1 style="text-align: left;">Phoenix Calibration</h1>
+    <div class="navigation_R">
             <a style="text-align: center;">
                     <li>
                         <a href="Home">Home</a>
@@ -37,11 +43,5 @@
                         <a href="Contact Us">Contact Us</a>
                     </li>
                 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-    <h1 style="text-align: left;">Phoenix Calibration</h1>
 </body>
 </html>
