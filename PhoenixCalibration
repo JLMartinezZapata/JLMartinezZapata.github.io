@@ -24,7 +24,7 @@
               background-repeat: no-repeat;  
             }
         img {
-             float: center;
+             float: right;
             }
 </style>
 <body>
