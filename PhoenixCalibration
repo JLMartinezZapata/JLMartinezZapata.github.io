@@ -66,10 +66,10 @@
                 <img src="PhoenixCalibration.jpg" alt="PhoenixCalibration">
                 
     <div style="width:50%;height:250px;">
-       <img src="CMM.jpg" alt="CMM" style="float:left;width:40%;height:100%;object-fit:cover;">
-       <img src="micrometer.jpg" alt="Micrometer" style="float:left;width:40%;height:100%;object-fit:cover;">
-       <img src="O-Scope.png" alt="O-Scope" style="float:left;width:40%;height:100%;object-fit:cover;">
-       <img src="thermometer.jpg" alt="Thermometer" style="float:left;width:40%;height:100%;object-fit:cover;">
+       <img src="CMM.jpg" alt="CMM" style="float:left;width:60%;height:100%;object-fit:cover;">
+       <img src="micrometer.jpg" alt="Micrometer" style="float:left;width:60%;height:100%;object-fit:cover;">
+       <img src="O-Scope.png" alt="O-Scope" style="float:left;width:60%;height:100%;object-fit:cover;">
+       <img src="thermometer.jpg" alt="Thermometer" style="float:left;width:60%;height:100%;object-fit:cover;">
     </div>
                 
 </body>
