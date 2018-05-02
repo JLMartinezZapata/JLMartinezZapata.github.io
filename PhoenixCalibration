@@ -19,6 +19,9 @@
          h1 {
               color: rgb(224, 107, 11);
             }
+          h2{
+            color: rgb(241, 11, 11);
+             }
          ul {
              list-style-type: none;
              margin: 0;
