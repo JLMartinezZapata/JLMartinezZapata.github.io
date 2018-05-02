@@ -91,14 +91,14 @@
             <p>Name: <input type="text" name="Name" id="name"></p>
             <p>Telephone: <input type="tel" name="Telephone" id="telephone"></p> 
             <p>Email: <input type="email" name="Email" id="email"></p>
-            <p>Pickup Time: <input type="time" name="Time" id="time"></p>  
+            <p>Drop Off Time: <input type="time" name="Time" id="time"></p>  
         </fieldset>
         <fieldset>
             <legend>Type of Services:</legend>
             <p>
                 <input type="radio" value="Calibration"="size"> Calibration <br>
                 <input type="radio" value="Repair" name="size"> Repair  <br>                
-                <input type="radio" value="Dimensional analysis for part inspection " name="size"> Dimensional analysis for part inspection <br>
+                <input type="radio" value="Dimensional analysis for part inspection (3D CMM) " name="size"> Dimensional analysis for part inspection (3D CMM) <br>
                 <input type="radio" value="Onsite" name="size"> Onsite <br>
             </p>
             <p>
