@@ -97,7 +97,8 @@
             <legend>Type of Services:</legend>
             <p>
                 <input type="radio" value="Calibration"="size"> Calibration <br>
-                <input type="radio" value="Repair" name="size"> Repair  <br>
+                <input type="radio" value="Repair" name="size"> Repair  <br>                
+                <input type="radio" value="Dimensional analysis for part inspection " name="size"> Dimensional analysis for part inspection <br>
                 <input type="radio" value="Onsite" name="size"> Onsite <br>
             </p>
             <p>
