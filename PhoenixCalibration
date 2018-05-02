@@ -56,7 +56,7 @@
       <ul class="navi">
             <a style="text-align: center;">
                     <li>
-                        <a href="Home">Home</a>
+                        <a href="../index.html"> My Home Page</a><br>
                     </li>
                     <li>
                         <a href="Services">Services</a>
