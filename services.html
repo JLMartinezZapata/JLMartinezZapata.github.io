@@ -1,1 +1,32 @@
+<form method="POST" id="formsend">
+        <h2>Order for Calibration Services here:</h2>
+        <fieldset>
 
+            <legend>Your contact information:</legend>
+            <p>Name: <input type="text" name="Name" id="name"></p>
+            <p>Telephone: <input type="tel" name="Telephone" id="telephone"></p> 
+            <p>Email: <input type="email" name="Email" id="email"></p>
+            <p>Drop Off Time: <input type="time" name="Time" id="time"></p>  
+
+        </fieldset>
+
+        <fieldset>
+
+            <legend>Type of Services:</legend>
+            <p>
+                <input type="radio" value="Calibration"="size"> Calibration <br>
+                <input type="radio" value="Repair" name="size"> Repair  <br>
+                <input type="radio" value="Dimensional analysis for part inspection (3D CMM) " name="size"> Dimensional analysis for part inspection (3D CMM) <br>
+                <input type="radio" value="Onsite" name="size"> Onsite <br>
+            </p>
+
+            <p>
+                <input type="checkbox" name="Calibration No Data"> Calibration No Data <br>
+                <input type="checkbox" name="Calibration With Data"> Calibration With Data <br>
+                <input type="checkbox" name="Calibration With Data and Uncertainties"> Calibration With Data and Uncertainties <br> 
+            </p>
+
+            <p><input type="submit" value="Submit order" id="btnSubmit"> &nbsp; <input id="btnReset" type="reset" value="Clear form"></p>
+
+        </fieldset> 
+     </form>
